@@ -1,0 +1,21 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# macOS
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# other
+README.md
+original_code/
