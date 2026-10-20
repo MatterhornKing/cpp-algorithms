@@ -3,6 +3,8 @@
 This repository presents a curated collection of programs from an undergraduate
 Algorithm Design and Analysis course.
 
+The implementations primarily use C-style procedural programming, with some C++ features for input/output and standard library utilities.
+
 The code is organised by algorithmic topic and uses descriptive English
 filenames. It intentionally preserves the procedural, C-style C++ commonly
 used in the original coursework, including native arrays, structures, global
